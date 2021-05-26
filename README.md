@@ -1,7 +1,9 @@
 # replit_django_setup
 
+## use poetry package manager to create project
 
-## is settings.py add these lines in the last 
+
+## in settings.py add these lines in the last 
 
 ```
 ALLOWED_HOSTS = ['*']
