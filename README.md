@@ -1,6 +1,7 @@
 # replit_django_setup
 
 ## use poetry package manager to create project
+https://github.com/mozsocia/poetry_setup
 
 
 ## in settings.py add these lines in the last 
